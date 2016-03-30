@@ -1,0 +1,5 @@
+name: First module
+description: This is first D8 custom module
+package: custom
+type: module
+core: 8.x
