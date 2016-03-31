@@ -1,0 +1,7 @@
+first_form.fruit:
+  path: '/myfirst-form'
+  defaults:
+    _title: 'Welcome to my form'
+    _form: '\Drupal\first_form\Form\FruitForm'
+  requirements:
+    _permission: 'access content'

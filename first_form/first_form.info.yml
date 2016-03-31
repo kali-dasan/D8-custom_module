@@ -1,0 +1,4 @@
+name: First form
+type: module
+description: First custom form example.
+core: 8.x
